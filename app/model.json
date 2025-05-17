@@ -390,6 +390,7 @@
             "name": "NewActivity", 
             "icon": "fas fa-running", 
             "color": "green", 
+            "width": 2,
             "form": { 
                 "form": "ActivityForm" 
             } 
@@ -399,7 +400,8 @@
             "name": "ActivityFriendList", 
             "icon": "fas fa-running", 
             "color": "green", 
-            "page":"activitylistspage" 
+            "page":"activitylistspage",
+            "width": 2
             } 
         ,
 
@@ -619,7 +621,7 @@
                         "name": "Klicke auf Ort um Aktivitäten anzuzeigen",
                         "icon": "fas fa-info-circle",
                         "color": "green",
-                        "width": 2
+                        "width": 4
                     
                     },
                     {
