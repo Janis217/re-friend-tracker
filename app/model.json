@@ -411,7 +411,7 @@
         { 
  
 "type": "list", 
-"icon": "fa-weixin", 
+"icon": "fas fa-running", 
 "color": "wisteria", 
 "search": true, 
 "url": "/activity", 
